@@ -1,5 +1,4 @@
 
-![[Pasted image 20231207181436.png]]
 <h1 align="center">Hi 👋, I'm Houda LAHRACHE</h1>
 <h3 align="center">"A passionate data analyst from Morocco"</h3>
 
